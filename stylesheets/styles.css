@@ -1,0 +1,77 @@
+/*Navbar custom edits*/
+.nav-edit {
+	margin-right: 0px;
+}
+/*Carousel Custom*/
+
+.carousel {
+	padding-top: 3em;
+}
+
+.first-recipe {
+	background-image: url('../assets/images/recipes/fish.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 50em;
+}
+.second-recipe {
+	background-image: url('../assets/images/recipes/salmon.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 50em;
+}
+
+.third-recipe {
+	background-image: url('../assets/images/recipes/lentils.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 50em;
+}
+
+.fourth-recipe {
+	background-image: url('../assets/images/recipes/pear.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 50em;
+}
+
+.best-recipe {
+	
+	text-align: center;
+	margin-top: 15em;
+	color: #fff;
+	background-color: rgba(0,0,0,0.6);
+	width: 100%;
+	padding-bottom: 30px;
+
+}
+.location {
+	background-color: #cee2f8;
+}
+
+div.row>h2 {
+	text-align: center;
+}
+/*****MEET YOUR FARMER****/
+div.farmer-text>h2 {		
+	text-align: center;
+	text-transform: uppercase;
+}
+div.meet-farmer {
+	padding-top: 9em;
+}
+ul {
+	list-style: none;
+}
+
+div.recipe-list>ul>li {
+	padding-top: 3em;
+}
+/*Produce images*/
+div.recipe-feedback {
+	padding-bottom: 3em;
+}
+.produce-unit>img {
+	border-radius: 100px;
+}
+
